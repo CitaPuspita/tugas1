@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Tugas2 {
     public void deretFaktorial(Scanner scanner){
-        //deret faktorial
+        //deret faktorialLLLLLLLLLLLLLLLLLLLL
         System.out.print("Masukkan Bilangan Faktorial : ");
         int faktorial = scanner.nextInt();
         int hasilFaktorial = 1;
